@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "436858881429",
+    "project_id": "u3-practica2-firebase",
+    "storage_bucket": "u3-practica2-firebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:436858881429:android:8407d007f332d772eca29c",
+        "android_client_info": {
+          "package_name": "mx.tecnm.tepic.u3_practica2_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "436858881429-nlg17g9kqhq040cldoj65b815blb73r1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9Dt4jEq1An4qjUh5TvcOw-96ziSYbhK0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "436858881429-nlg17g9kqhq040cldoj65b815blb73r1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
